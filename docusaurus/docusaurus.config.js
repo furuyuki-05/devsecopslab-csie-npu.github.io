@@ -42,6 +42,10 @@ const config = {
         googleTagManager: {
           containerId: 'GTM-MN22BMP2',
         },
+        googleAnalytics: {
+          trackingID: 'G-R2DLNHS99H',
+          anonymizeIP: true,
+        },
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
