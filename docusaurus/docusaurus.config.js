@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'System Security & Reliability Lab',
+  title: '系統安全及可靠度實驗室',
   tagline: 'a.k.a. DevSecOps Lab @ NPU',
   favicon: 'img/favicon.ico',
 
