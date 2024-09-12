@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DevSecOps Lab @ NPU',
-  tagline: 'DevSecOps Lab @ NPU',
+  title: 'System Security & Reliability Lab',
+  tagline: 'a.k.a. DevSecOps Lab @ NPU',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh_Hant_TW',
-    locales: ['zh_Hant_TW', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -74,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -84,7 +84,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '實驗室介紹',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
