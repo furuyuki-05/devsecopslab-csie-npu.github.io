@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'CSIE @ NPU', // Usually your GitHub org/user name.
+  organizationName: 'devsecopslab-csie-npu', // Usually your GitHub org/user name.
   projectName: 'devsecopslab-csie-npu.github.io', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
