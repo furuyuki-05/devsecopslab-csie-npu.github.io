@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/DevSecOpsLab-CSIE-NPU/devsecopslab-csie-npu.github.io/edit/main/docusaurus/docs/',
+            'https://github.com/DevSecOpsLab-CSIE-NPU/devsecopslab-csie-npu.github.io/edit/main/docusaurus/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/DevSecOpsLab-CSIE-NPU/devsecopslab-csie-npu.github.io/edit/main/docusaurus/blog/',
+            'https://github.com/DevSecOpsLab-CSIE-NPU/devsecopslab-csie-npu.github.io/edit/main/docusaurus/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
