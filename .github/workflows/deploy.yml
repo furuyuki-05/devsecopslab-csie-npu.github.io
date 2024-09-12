@@ -23,13 +23,14 @@ jobs:
 
       - name: Install dependencies
         run: cd docusaurus; npm install --frozen-lockfile
+
       - name: Build website
         run: cd docusaurus; npm run build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: docusaurus/build
 
   deploy:
     name: Deploy to GitHub Pages
