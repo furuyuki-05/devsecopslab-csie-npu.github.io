@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+announcement:
+  label: 公告
+  permalink: /announcement
+  description: Announcement from this site
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+study:
+  label: 研究
+  permalink: /study
+  description: Study materials from our lab
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+nlp:
+  label: 自然語言處理
+  permalink: /nlp
+  description: topics related to natural language processing
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+cloud:
+  label: 雲端運算
+  permalink: /cloud_computing
+  description: topics related to cloud computing
+
+skill:
+  label: 學習技能
+  permalink: /skill
+  description: topics related to computer skills
