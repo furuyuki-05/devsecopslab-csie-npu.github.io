@@ -1,6 +1,6 @@
 ---
 slug: 113-ignite-idea
-title: 113 
+title: 激發創意：113 實驗室介紹會議 
 authors: [augchao]
 tags: [公告]
 ---
