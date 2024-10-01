@@ -2,7 +2,7 @@
 slug: 11310-SkillTree
 title: 實驗室技能樹(2024-10)
 authors: [augchao]
-tags: [公告]
+tags: [Skills]
 ---
 
 # 實驗室技能樹(2024-10)
