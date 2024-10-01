@@ -1,11 +1,11 @@
 ---
-slug: 113-ignite-idea
-title: 實驗室激發創意會議(113)
+slug: 11310-SkillTree
+title: 實驗室技能樹(2024-10)
 authors: [augchao]
 tags: [公告]
 ---
 
-# 實驗室技能樹
+# 實驗室技能樹(2024-10)
 
 ### 建立強大的技術基礎：實驗室技能培養指南
 
