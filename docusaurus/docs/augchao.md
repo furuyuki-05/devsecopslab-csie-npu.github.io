@@ -17,7 +17,7 @@ Questions, concerns, or suggestions are very welcome! \
 sóo-iú ê ìn-tap iā-ē-sái īng tâi-gí tsìn-hîng. (所有的應答也可以用台語進行)
 
 [Dep. of Computer Science and Information Engineering (CSIE)](https://csie.npu.edu.tw/English/) \
-[資工系](https://csie.npu.edu.tw/English/), [國立澎湖科技大學(https://www.npu.edu.tw/)](77187931), (06)9264115#3511
+[資工系](https://csie.npu.edu.tw/English/), [國立澎湖科技大學](https://www.npu.edu.tw/) (77187931), (06)9264115#3511
 
 ## 開授課程
 
